@@ -66,8 +66,3 @@ ul li {
     justify-content: space-between;
     border: 1px solid #ddd;
 }
-
-#chart-container {
-    margin-top: 20px;
-    text-align: center;
-}
